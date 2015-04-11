@@ -16,7 +16,7 @@ Bạn có thể in ra giao diện dòng lệnh y như in ra trên trình duyệt
 console.log("text")
 ```
 
-Sau khi bạn làm xong như vậy thì hay chạy lệnh sau:
+Sau khi bạn làm xong như vậy thì hãy chạy lệnh sau:
 
 ```sh
 $ {appname} verify program.js
